@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\Tst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA89DC9-0ED7-424A-B8FD-DE0C81E56D83}|Tst\\Tst.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\tst\\tst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA89DC9-0ED7-424A-B8FD-DE0C81E56D83}|Tst\\Tst.csproj|solutionrelative:tst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA89DC9-0ED7-424A-B8FD-DE0C81E56D83}|Tst\\Tst.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\tst\\tst\\service\\tstservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA89DC9-0ED7-424A-B8FD-DE0C81E56D83}|Tst\\Tst.csproj|solutionrelative:tst\\service\\tstservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA89DC9-0ED7-424A-B8FD-DE0C81E56D83}|Tst\\Tst.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\tst\\tst\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA89DC9-0ED7-424A-B8FD-DE0C81E56D83}|Tst\\Tst.csproj|solutionrelative:tst\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA89DC9-0ED7-424A-B8FD-DE0C81E56D83}|Tst\\Tst.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\tst\\tst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABA89DC9-0ED7-424A-B8FD-DE0C81E56D83}|Tst\\Tst.csproj|solutionrelative:tst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA89DC9-0ED7-424A-B8FD-DE0C81E56D83}|Tst\\Tst.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\tst\\tst\\model\\tstnodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA89DC9-0ED7-424A-B8FD-DE0C81E56D83}|Tst\\Tst.csproj|solutionrelative:tst\\model\\tstnodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA89DC9-0ED7-424A-B8FD-DE0C81E56D83}|Tst\\Tst.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\tst\\tst\\configuration\\tstconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA89DC9-0ED7-424A-B8FD-DE0C81E56D83}|Tst\\Tst.csproj|solutionrelative:tst\\configuration\\tstconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\Tst\\Tst\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Tst\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\Tst\\Tst\\Form1.Designer.cs",
+              "RelativeToolTip": "Tst\\Form1.Designer.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAwH8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:53:10.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\Tst\\Tst\\Form1.cs",
+              "RelativeDocumentMoniker": "Tst\\Form1.cs",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\Tst\\Tst\\Form1.cs",
+              "RelativeToolTip": "Tst\\Form1.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:39:41.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TstService.cs",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\Tst\\Tst\\Service\\TstService.cs",
+              "RelativeDocumentMoniker": "Tst\\Service\\TstService.cs",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\Tst\\Tst\\Service\\TstService.cs",
+              "RelativeToolTip": "Tst\\Service\\TstService.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAwF8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:14:59.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TstNodel.cs",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\Tst\\Tst\\Model\\TstNodel.cs",
+              "RelativeDocumentMoniker": "Tst\\Model\\TstNodel.cs",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\Tst\\Tst\\Model\\TstNodel.cs",
+              "RelativeToolTip": "Tst\\Model\\TstNodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:58:22.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TstConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\Tst\\Tst\\Configuration\\TstConfiguration.cs",
+              "RelativeDocumentMoniker": "Tst\\Configuration\\TstConfiguration.cs",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\Tst\\Tst\\Configuration\\TstConfiguration.cs",
+              "RelativeToolTip": "Tst\\Configuration\\TstConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:54:29.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\Tst\\Tst\\Form1.cs",
+              "RelativeDocumentMoniker": "Tst\\Form1.cs",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\Tst\\Tst\\Form1.cs [Design]",
+              "RelativeToolTip": "Tst\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:53:07.027Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
